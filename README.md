@@ -9,3 +9,4 @@ I've brought in a library of everytimezone, however, it's created a conflicting 
 
 
 I need to think of a better solution than just 2 different states, right?
+figured this out, jsut need to clean up code and stlye and move from codesandbox to a regular repo
