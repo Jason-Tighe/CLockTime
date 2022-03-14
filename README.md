@@ -12,3 +12,4 @@ I need to think of a better solution than just 2 different states, right?
 figured this out, jsut need to clean up code and stlye and move from codesandbox to a regular repo
 
 fixed the issue with getting the UTC time by itself and found a way to use the "offSet" so that I wouldn't have to worry about "nonvaild" timezones when using ".tolocalstring".
+Another day another edit!
