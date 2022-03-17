@@ -14,3 +14,4 @@ figured this out, jsut need to clean up code and stlye and move from codesandbox
 fixed the issue with getting the UTC time by itself and found a way to use the "offSet" so that I wouldn't have to worry about "nonvaild" timezones when using ".tolocalstring".
 Another day another edit!
 conflicted, i might scrap and restart.
+I want to figure out how to create a slider but as a circle? like a hand on a clock.
