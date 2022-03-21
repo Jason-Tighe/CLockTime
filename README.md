@@ -15,3 +15,4 @@ fixed the issue with getting the UTC time by itself and found a way to use the "
 Another day another edit!
 conflicted, i might scrap and restart.
 I want to figure out how to create a slider but as a circle? like a hand on a clock.
+..
